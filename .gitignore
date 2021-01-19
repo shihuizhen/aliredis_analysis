@@ -1,0 +1,11 @@
+# 忽略.开头的文件
+.vscode
+.DS*
+# 忽略变编译过的文件
+*.pyc
+# 忽略缓存目录
+__pycache__
+# 忽略日志
+redis_analysis.log*
+
+
